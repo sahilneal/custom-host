@@ -376,7 +376,7 @@ var bad_da_host_JSON = { "jobthread.com": null,
 "vdo.ai": null,
 "curriculture.com": null,
 "pndelfast.com": null,
-"anyonemyth.com": null,turngrind.com
+"anyonemyth.com": null,
 "turngrind.com": null,
 "analytics.hindustantimes.com": null,
 "s.w.org": null,
