@@ -234,9 +234,6 @@ var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non
 
 // 2050 rules:
 var bad_da_host_JSON = { "jobthread.com": null,
-"*.analytics.*": null,
-"*analytics.*": null,
-"*.analytic.*": null,
 "steepto.com": null,
 "jsc.mgid.com": null,
 "ajax.cloudflare.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js": null,
