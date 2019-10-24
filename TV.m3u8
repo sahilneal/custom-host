@@ -40,7 +40,7 @@ http://tiny.cc/ndtvinutube
 #EXTINF:-1 tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_300/ndtv_24x7.png",NDTV 24/7
 http://tiny.cc/ndtv247utube
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/TV9_Bharatvarsh_Aao_Desh_Badlein.jpg/revision/latest/scale-to-width-down/280?cb=20190401051748",TV9 Bharatvarsh
-vlc://http://tiny.cc/tv9hi
+vlc://https://www.youtube.com/watch?v=sOaDWaJTIdY
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/jd_social_backend/logo/895623415263/8d0571855fb06e66dcf1000009bcf9ab.jpg",ABP News
 http://tiny.cc/abphi
 #EXTINF:-1 tvg-logo="https://imgb.androidappsapk.co/115/1/7/9/com.useee.news18urdui.png",News18 URDU
