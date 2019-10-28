@@ -76,7 +76,7 @@ http://tiny.cc/news18bih
 #EXTINF:-1 tvg-logo="http://static.filmon.com/assets/channels/4/big_logo.png",ALJAZEERA INTERNATIONAL
 http://tiny.cc/aljazeerautube
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/100px-BBC_World_News_2019.svg.png",BBC World News
-https://stream.massdigitech.com/hls/BBC_World_News.m3u8
+http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
 #EXTINF:-1 tvg-logo="https://television-planet.tv/uploads/posts/25252123143fplanet-television.png",Sky News
 http://tiny.cc/skynewsutube
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/5a/06/a3/5a06a36e086ec7d84b0677cf4c9b928c.jpg",Sony MIX
@@ -84,30 +84,30 @@ https://stream.massdigitech.com/hls/Sony_Mix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV
 http://stream.massdigitech.com/hls/MTV.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/m/925871636s.png",MTV Beats
-http://stream.massdigitech.com/hls/MTV_Beats_HD.m3u8
+http://27.147.156.14:1935//MTV-Beats/MTV-Beats.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV HD Plus
 http://stream.massdigitech.com/hls/MTV_HD_Plus.m3u8
 #EXTINF:-1 tvg-logo="http://deshent.com/Uploads/Master/270520160625429Xm.png",9XM
-https://stream.massdigitech.com/hls/9XM.m3u8
+http://27.147.156.14:1935/9-XM/9-XM.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://nettv4u.com/uploads/115x100/Zing.JPG",Zing
 http://pockettv.xyz/api/zee.m3u8?c=zing
 #EXTINF:-1 tvg-logo="http://www.ssbcn.in/logo_chanal/372.png",Zee ETC
 http://pockettv.xyz/api/zee.m3u8?c=etc
 #EXTINF:-1 tvg-logo="http://www.kcvnet.in/images/chanellogo/9x_o_in.png",9XO
 http://27.147.156.14:1935/9-XO/9-XO.stream/master.m3u8
-#EXTINF:-1 tvg-logo="http://boxoffice.sarail.net/tv/img/e24.png",E24 HQ
+#EXTINF:-1 tvg-logo="http://boxoffice.sarail.net/tv/img/e24.png",E24
 https://stream.massdigitech.com/hls/E_24.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/846236399359709184/XQdia8As_200x200.jpg",Mastii HQ
-https://stream.massdigitech.com/hls/Mastiii.m3u8
+http://streamer.multitvsolution.in/live/Mastiii-f/p4.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1032595703330029568/FVEuOtDQ_bigger.jpg",WOW Music
 http://209.58.160.177/wowouthls/live_720.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1108972233685237760/dz2OCQeq_200x200.png",Sony BBC Earth HD
 https://stream.massdigitech.com/hls/Sony_BBC_Earth_HD.m3u8
 #EXTINF:-1 tvg-logo="http://cremeriedeparis.com/discoverychannel/logo.jpg",Discovery Hindi
-https://stream.massdigitech.com/hls/Discovery_Channel_Hindi.m3u8
+http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://images.spasibovsem.ru/catalog/100/telekanal-discovery-science-otzyvy-1372367696.jpg",Discover Science Hindi
-https://stream.massdigitech.com/hls/Discovery_Channel_Science.m3u8
+http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://www.comcastspotlight.com/sites/default/files/styles/network_thumbnail/public/networks/Animal%20Planet%20Large%20Stacked.png?itok=sZYb32ot",Animal Planet Hindi
-https://stream.massdigitech.com/hls/Animal_Planet_Hindi.m3u8
+http://streamer.multitvsolution.in/live/AnimalPlanetHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="http://upload.turkcewiki.org/wikipedia/en/thumb/2/20/Sony_SIX_logo.png/160px-Sony_SIX_logo.png", SonySIX HD
 http://playing-jootv.somee.com/iptv/play-2.php?c=sonysixhd&tv.m3u8
