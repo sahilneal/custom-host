@@ -105,10 +105,14 @@ http://tiny.cc/abphi
 http://tiny.cc/aajtakutube
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/200px-Aaj_tak_logo.png",AajTak LQ
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w699668562_b1000000.m3u8
-#EXTINF:-1 tvg-logo="https://imgb.androidappsapk.co/115/1/7/9/com.useee.news18urdui.png",News18 URDU
+#EXTINF:-1 tvg-logo="https://imgb.androidappsapk.co/115/1/7/9/com.useee.news18urdui.png",News18 URDU HQ
 http://tiny.cc/news18ur
+#EXTINF:-1 tvg-logo="https://imgb.androidappsapk.co/115/1/7/9/com.useee.news18urdui.png",News18 URDU
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.inextlive.com/bikeathon/images/sponcers/jamshedpur/2018/8.jpg",News18 Bihar
 http://tiny.cc/news18bih
+#EXTINF:-1 tvg-logo="https://www.inextlive.com/bikeathon/images/sponcers/jamshedpur/2018/8.jpg",News18 Bihar
+https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_5_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://static.filmon.com/assets/channels/4/big_logo.png",ALJAZEERA INTERNATIONAL
 http://tiny.cc/aljazeerautube
 #EXTINF:-1 tvg-logo="http://static.filmon.com/assets/channels/4/big_logo.png",ALJAZEERA INTERNATIONAL Alt
@@ -119,6 +123,8 @@ https://stream.massdigitech.com/hls/BBC_World_News.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/100px-BBC_World_News_2019.svg.png",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo="https://television-planet.tv/uploads/posts/25252123143fplanet-television.png",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 tvg-logo="https://television-planet.tv/uploads/posts/25252123143fplanet-television.png",Sky News
 http://tiny.cc/skynewsutube
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887112381.jpg",Dil Se HQ

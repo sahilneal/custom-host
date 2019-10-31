@@ -14,7 +14,7 @@ http://46.4.116.44:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/nuL-UZIZBhS71RtKaBPia52u7OvFsQtV58OSUlGsUV1BdXZTUGOGUTRkPf2Q9yfbqc8=w150",Madina Live
 http://46.4.116.44:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/240px-Colors_tv2017.png",Colors HD
-http://playing-jootv.somee.com/iptv/play-2.php?c=colorstvhd&tv.m3u8
+https://stream.massdigitech.com/hls/Colors_HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-tv-hd-logo.jpg",ZeeTV HD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 #EXTINF:-1 tvg-logo="http://images.whatsonindia.com/whatsontv/images/applicationchannellogo/nuHCtJ12.png",Starplus HD
@@ -64,7 +64,7 @@ http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/AXN_HD_2015.png/revision/latest/scale-to-width-down/250?cb=20151003112849",AXN HD
 http://playing-jootv.somee.com/iptv/play-2.php?c=axnhd&tv.m3u8
 #EXTINF:-1 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/ndtvlogo.png",NDTV India
-http://tiny.cc/ndtvinutube
+https://stream.massdigitech.com/hls/NDTV_India.m3u8
 #EXTINF:-1 tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_300/ndtv_24x7.png",NDTV 24/7
 http://tiny.cc/ndtv247utube
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/TV9_Bharatvarsh_Aao_Desh_Badlein.jpg/revision/latest/scale-to-width-down/280?cb=20190401051748",TV9 Bharatvarsh
@@ -72,17 +72,17 @@ http://tiny.cc/tv9hi
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/jd_social_backend/logo/895623415263/8d0571855fb06e66dcf1000009bcf9ab.jpg",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/200px-Aaj_tak_logo.png",AajTak
-http://tiny.cc/aajtakutube
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w699668562_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://imgb.androidappsapk.co/115/1/7/9/com.useee.news18urdui.png",News18 URDU
-http://tiny.cc/news18ur
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.inextlive.com/bikeathon/images/sponcers/jamshedpur/2018/8.jpg",News18 Bihar
-http://tiny.cc/news18bih
+https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_5_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://static.filmon.com/assets/channels/4/big_logo.png",ALJAZEERA INTERNATIONAL
 http://tiny.cc/aljazeerautube
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/100px-BBC_World_News_2019.svg.png",BBC World News
-http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://television-planet.tv/uploads/posts/25252123143fplanet-television.png",Sky News
-http://tiny.cc/skynewsutube
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887112381.jpg",Dil Se HQ
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887607779.jpg",Kadak Hits HQ
@@ -96,7 +96,7 @@ http://playing-jootv.somee.com/iptv/play-2.php?c=sonymix&tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV
 http://stream.massdigitech.com/hls/MTV.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/m/925871636s.png",MTV Beats
-http://27.147.156.14:1935//MTV-Beats/MTV-Beats.stream/master.m3u8
+http://stream.massdigitech.com/hls/MTV_Beats_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV HD Plus
 http://stream.massdigitech.com/hls/MTV_HD_Plus.m3u8
 #EXTINF:-1 tvg-logo="http://deshent.com/Uploads/Master/270520160625429Xm.png",9XM
@@ -120,10 +120,10 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1108972233685237760/dz2OCQeq_200x200.png",Sony BBC Earth HD
 https://stream.massdigitech.com/hls/Sony_BBC_Earth_HD.m3u8
 #EXTINF:-1 tvg-logo="http://cremeriedeparis.com/discoverychannel/logo.jpg",Discovery Hindi
-http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+https://stream.massdigitech.com/hls/Discovery_Channel_Hindi.m3u8
 #EXTINF:-1 tvg-logo="https://images.spasibovsem.ru/catalog/100/telekanal-discovery-science-otzyvy-1372367696.jpg",Discover Science Hindi
-http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+https://stream.massdigitech.com/hls/Discovery_Channel_Science.m3u8
 #EXTINF:-1 tvg-logo="https://www.comcastspotlight.com/sites/default/files/styles/network_thumbnail/public/networks/Animal%20Planet%20Large%20Stacked.png?itok=sZYb32ot",Animal Planet Hindi
-http://streamer.multitvsolution.in/live/AnimalPlanetHindi-a/p4.m3u8
+https://stream.massdigitech.com/hls/Animal_Planet_Hindi.m3u8
 #EXTINF:-1 tvg-logo="http://upload.turkcewiki.org/wikipedia/en/thumb/2/20/Sony_SIX_logo.png/160px-Sony_SIX_logo.png", SonySIX HD
 http://playing-jootv.somee.com/iptv/play-2.php?c=sonysixhd&tv.m3u8
