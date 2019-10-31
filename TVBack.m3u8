@@ -23,6 +23,8 @@ https://stream.massdigitech.com/hls/Zee_TV_HD.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 #EXTINF:-1 tvg-logo="http://images.whatsonindia.com/whatsontv/images/applicationchannellogo/nuHCtJ12.png",Starplus HD
 http://red.aslivetv.club/StarPlusHD.m3u8
+#EXTINF:-1 tvg-logo="http://images.whatsonindia.com/whatsontv/images/applicationchannellogo/nuHCtJ12.png",Starplus HD VPN India
+https://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/83px-SET_India_logo.svg.png",SonyTV HD LQ
 https://stream.massdigitech.com/hls/Sony_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/83px-SET_India_logo.svg.png",SonyTV HD
@@ -31,6 +33,8 @@ http://playing-jootv.somee.com/iptv/play-2.php?c=sonytvhd&tv.m3u8
 https://stream.massdigitech.com/hls/Sony_SAB_HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/star-bharat-hd-logo-150x150.jpg",Star Bharat HD
 http://red.aslivetv.club/StarBharatHD.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/star-bharat-hd-logo-150x150.jpg",Star Bharat HD VPN India
+https://starbharat-i.akamaihd.net/hls/live/569933-b/starbharat/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony Sab HD
 http://playing-jootv.somee.com/iptv/play-2.php?c=sonysabhd&tv.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/170x170/tvhd_386x386_634196922.png",&TV HD
@@ -47,6 +51,8 @@ http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 https://stream.massdigitech.com/hls/And_Pictures_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg",&Pictures HD
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold HD
+http://staragold-i.akamaihd.net/hls/live/569910-b/staragold/master_2000.m3u8
 #EXTINF:-1 tvg-logo="http://www.rmnstars.com/wp-content/uploads/2017/03/starind-300x300.jpg",Star Gold Select HD
 http://red.aslivetv.club/StarGoldSelectHD.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP0iCMMzJW4e4CnN9KgeSMd6-9GMLraozRRXQUow7TBHwQgt5W&s",Jio Bollywood HD Premium
