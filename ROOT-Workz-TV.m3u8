@@ -20,9 +20,9 @@ http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 #EXTINF:-1 tvg-logo="http://images.whatsonindia.com/whatsontv/images/applicationchannellogo/nuHCtJ12.png",Starplus HD
 http://red.aslivetv.club/StarPlusHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/83px-SET_India_logo.svg.png",SonyTV HD
-http://playing-jootv.somee.com/iptv/play-2.php?c=sonytvhd&tv.m3u8
+https://stream.massdigitech.com/hls/Sony_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony Sab HD
-http://playing-jootv.somee.com/iptv/play-2.php?c=sonysabhd&tv.m3u8
+https://stream.massdigitech.com/hls/Sony_SAB_HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/star-bharat-hd-logo-150x150.jpg",Star Bharat HD
 http://red.aslivetv.club/StarBharatHD.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/170x170/tvhd_386x386_634196922.png",&TV HD
@@ -52,7 +52,7 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront.timesnownews.com/site/tnad/timesnetwork/mnx_hd.png",MNX HD
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://d3ge7iqw03kmcr.cloudfront.net/logo/34_0.png",SonyPIX HD
-http://playing-jootv.somee.com/iptv/play-2.php?c=sonypixhd&tv.m3u8
+https://stream.massdigitech.com/hls/Sony_Pix_HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/logo/tv/ss/star_movies_in_select_hd.png",Star Movies Select HD
 http://red.aslivetv.club/StarMoviesSelectHD.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/STM.png",Star Movies HD
@@ -62,7 +62,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 #EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/themes/zeetelevision/assets/images/media/english-pack-logo/&-flix-b-hd.jpg",&flix HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/AXN_HD_2015.png/revision/latest/scale-to-width-down/250?cb=20151003112849",AXN HD
-http://playing-jootv.somee.com/iptv/play-2.php?c=axnhd&tv.m3u8
+https://stream.massdigitech.com/hls/AXN_HD.m3u8
 #EXTINF:-1 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/ndtvlogo.png",NDTV India
 https://stream.massdigitech.com/hls/NDTV_India.m3u8
 #EXTINF:-1 tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_300/ndtv_24x7.png",NDTV 24/7
@@ -92,7 +92,7 @@ https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887607804.jpg",Nazrana Ghazal HQ
 https://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/5a/06/a3/5a06a36e086ec7d84b0677cf4c9b928c.jpg",Sony MIX
-http://playing-jootv.somee.com/iptv/play-2.php?c=sonymix&tv.m3u8
+https://stream.massdigitech.com/hls/Sony_Mix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV
 http://stream.massdigitech.com/hls/MTV.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/m/925871636s.png",MTV Beats
@@ -110,7 +110,7 @@ http://27.147.156.14:1935/9-XO/9-XO.stream/master.m3u8
 #EXTINF:-1 tvg-logo="http://images.whatsonindia.com/WhatsOnTV/images/applicationchannellogo/10000000000690000.png",ZoomTV HQ
 https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/07039f42-916d-4c69-a020-5ba8f3a7e8a7:GRQ/variant/57d6d54e76753e94591878ab1c37bd7e/bandwidth/1877000.m3u8
 #EXTINF:-1 tvg-logo="http://boxoffice.sarail.net/tv/img/e24.png",E24
-http://playing-jootv.somee.com/iptv/play-2.php?c=e24&tv.m3u8
+https://stream.massdigitech.com/hls/E_24.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/846236399359709184/XQdia8As_200x200.jpg",Mastii HQ
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1032595703330029568/FVEuOtDQ_bigger.jpg",WOW Music
