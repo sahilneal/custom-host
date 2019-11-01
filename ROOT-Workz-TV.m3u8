@@ -54,7 +54,7 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://d3ge7iqw03kmcr.cloudfront.net/logo/34_0.png",SonyPIX HD
 https://stream.massdigitech.com/hls/Sony_Pix_HD.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold HD VPN India
-http://staragold-i.akamaihd.net/hls/live/569910-b/staragold/master_2000.m3u8
+https://staragold-i.akamaihd.net/hls/live/569910-b/staragold/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/logo/tv/ss/star_movies_in_select_hd.png",Star Movies Select HD
 http://red.aslivetv.club/StarMoviesSelectHD.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/STM.png",Star Movies HD
