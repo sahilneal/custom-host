@@ -164,7 +164,7 @@ http://pockettv.xyz/api/zee.m3u8?c=etc
 #EXTINF:-1 tvg-logo="http://www.kcvnet.in/images/chanellogo/9x_o_in.png",9XO
 http://27.147.156.14:1935/9-XO/9-XO.stream/master.m3u8
 #EXTINF:-1 tvg-logo="http://images.whatsonindia.com/WhatsOnTV/images/applicationchannellogo/10000000000690000.png",ZoomTV HQ
-https://dai.google.com/linear/hls/pa/event/JCAm25qkRXiKcK1AJMlvKQ/stream/07039f42-916d-4c69-a020-5ba8f3a7e8a7:GRQ/variant/57d6d54e76753e94591878ab1c37bd7e/bandwidth/1877000.m3u8
+https://zoomtgbcllive-i.akamaihd.net/hls/live/681901/zoomhlsingest/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="http://boxoffice.sarail.net/tv/img/e24.png",E24 HQ
 https://stream.massdigitech.com/hls/E_24.m3u8
 #EXTINF:-1 tvg-logo="http://boxoffice.sarail.net/tv/img/e24.png",E24
