@@ -66,7 +66,7 @@ http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/AXN_HD_2015.png/revision/latest/scale-to-width-down/250?cb=20151003112849",AXN HD
 https://stream.massdigitech.com/hls/AXN_HD.m3u8
 #EXTINF:-1 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/ndtvlogo.png",NDTV India
-https://stream.massdigitech.com/hls/NDTV_India.m3u8
+http://tiny.cc/ndtvinutube
 #EXTINF:-1 tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_300/ndtv_24x7.png",NDTV 24/7
 http://tiny.cc/ndtv247utube
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/TV9_Bharatvarsh_Aao_Desh_Badlein.jpg/revision/latest/scale-to-width-down/280?cb=20190401051748",TV9 Bharatvarsh
