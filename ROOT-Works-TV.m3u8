@@ -98,7 +98,7 @@ http://playing-jootv.somee.com/iptv/play-2.php?c=sonymix&tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV
 http://stream.massdigitech.com/hls/MTV.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/m/925871636s.png",MTV Beats
-http://stream.massdigitech.com/hls/MTV_Beats_HD.m3u8
+http://27.147.156.14:1935//MTV-Beats/MTV-Beats.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV HD Plus
 http://stream.massdigitech.com/hls/MTV_HD_Plus.m3u8
 #EXTINF:-1 tvg-logo="http://deshent.com/Uploads/Master/270520160625429Xm.png",9XM
