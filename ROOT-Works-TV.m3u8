@@ -122,10 +122,10 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1108972233685237760/dz2OCQeq_200x200.png",Sony BBC Earth HD
 https://stream.massdigitech.com/hls/Sony_BBC_Earth_HD.m3u8
 #EXTINF:-1 tvg-logo="http://cremeriedeparis.com/discoverychannel/logo.jpg",Discovery Hindi
-https://stream.massdigitech.com/hls/Discovery_Channel_Hindi.m3u8
+http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://images.spasibovsem.ru/catalog/100/telekanal-discovery-science-otzyvy-1372367696.jpg",Discover Science Hindi
 http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://www.comcastspotlight.com/sites/default/files/styles/network_thumbnail/public/networks/Animal%20Planet%20Large%20Stacked.png?itok=sZYb32ot",Animal Planet Hindi
-https://stream.massdigitech.com/hls/Animal_Planet_Hindi.m3u8
+http://streamer.multitvsolution.in/live/AnimalPlanetHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="http://upload.turkcewiki.org/wikipedia/en/thumb/2/20/Sony_SIX_logo.png/160px-Sony_SIX_logo.png", SonySIX HD
 http://playing-jootv.somee.com/iptv/play-2.php?c=sonysixhd&tv.m3u8
