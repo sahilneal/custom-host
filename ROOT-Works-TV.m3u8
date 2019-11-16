@@ -10,9 +10,9 @@ http://158.69.229.29:8081/newslive/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ac/5f/a7/ac5fa7237dfa4f8c443949102754f90e.jpg",Geo NEWS
 https://streamer64.ebound.tv/geo/geonews_abr/geo/geonews_master/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgd.apk.tools/150/d/9/2/com.wlivealharamayn_4833964.png",Makkah Live
-http://46.4.116.44:1935/live/quran/playlist.m3u8
+http://m.live.net.sa:1935/live/quran/master.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/nuL-UZIZBhS71RtKaBPia52u7OvFsQtV58OSUlGsUV1BdXZTUGOGUTRkPf2Q9yfbqc8=w150",Madina Live
-http://46.4.116.44:1935/live/sunnah/playlist.m3u8
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/240px-Colors_tv2017.png",Colors HD
 http://playing-jootv.somee.com/iptv/play-2.php?c=colorstvhd&tv.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-tv-hd-logo.jpg",ZeeTV HD
@@ -122,10 +122,10 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1108972233685237760/dz2OCQeq_200x200.png",Sony BBC Earth HD
 http://cdn.joovox.xyz/hls293/Sony_BBC_Earth_HD.m3u8
 #EXTINF:-1 tvg-logo="http://cremeriedeparis.com/discoverychannel/logo.jpg",Discovery Hindi
-http://cdn.joovox.xyz/hls293/Discovery_Channel_Hindi.m3u8
+http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://images.spasibovsem.ru/catalog/100/telekanal-discovery-science-otzyvy-1372367696.jpg",Discover Science Hindi
 http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://www.comcastspotlight.com/sites/default/files/styles/network_thumbnail/public/networks/Animal%20Planet%20Large%20Stacked.png?itok=sZYb32ot",Animal Planet Hindi
-http://cdn.joovox.xyz/hls293/Animal_Planet_Hindi.m3u8
+http://streamer.multitvsolution.in/live/AnimalPlanetHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="http://upload.turkcewiki.org/wikipedia/en/thumb/2/20/Sony_SIX_logo.png/160px-Sony_SIX_logo.png", SonySIX HD
 http://playing-jootv.somee.com/iptv/play-2.php?c=sonysixhd&tv.m3u8
