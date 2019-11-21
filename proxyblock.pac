@@ -6600,6 +6600,20 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "xk.miui.com") ||
 		  shExpMatch(host, "xlmc.sec.miui.com") ||
 		  shExpMatch(host, "zhushou.miui.com") ||
+		  shExpMatch(host, "api.hybrid.intl.xiaomi.com") ||
+		  shExpMatch(host, "data.mistat.india.xiaomi.com") ||
+		  shExpMatch(host, "ad.mail.ru") ||
+		  shExpMatch(host, "indigolbs.dinoy.xyz") ||
+		  shExpMatch(host, "like-gateway.bigo.sg") ||
+		  shExpMatch(host, "config.imoim.app") ||
+		  shExpMatch(host, "support0.bigo.sg") ||
+		  shExpMatch(host, "socks.live.bigo.sg") ||
+		  shExpMatch(host, "global.market.xiaomi.com") ||
+		  shExpMatch(host, "globalnileapi.market.xiaomi.com") ||
+		  shExpMatch(host, "h0.market.xiaomi.com") ||
+		  shExpMatch(host, "sec.resource.xiaomi.net") ||
+		  shExpMatch(host, "tl.market.xiaomi.com") ||
+		  shExpMatch(host, "firebaseremoteconfig.googleapis.com") ||
          shExpMatch(host, "adserver.*")
        ) {
        return "PROXY 0.0.0.0";
