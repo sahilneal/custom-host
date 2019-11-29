@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/ARY_Digital_Logo_2.png/150px-ARY_Digital_Logo_2.png",ARY Digital
-http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream/chunks.m3u8
+https://stream.arylive.com/DigitalLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple117/v4/f6/28/09/f6280981-de11-5b66-c72a-79a1bc8c95de/source/112x112bb.jpg",Geo TV
 https://streamer64.ebound.tv/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",HUM TV
