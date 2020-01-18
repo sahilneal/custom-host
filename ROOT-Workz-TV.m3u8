@@ -16,17 +16,17 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/240px-Colors_tv2017.png",Colors HD
 http://cdn.joovox.xyz/hls293/Colors_HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-tv-hd-logo.jpg",ZeeTV HD
-http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.whatsonindia.com/whatsontv/images/applicationchannellogo/nuHCtJ12.png",Starplus HD
 https://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/83px-SET_India_logo.svg.png",SonyTV HD
-http://cdn.joovox.xyz/hls293/Sony_HD.m3u8
+https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony Sab HD
-http://cdn.joovox.xyz/hls293/Sony_SAB_HD.m3u8
+https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/star-bharat-hd-logo-150x150.jpg",Star Bharat HD VPN India
 https://starbharat-i.akamaihd.net/hls/live/569933-b/starbharat/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/170x170/tvhd_386x386_634196922.png",&TV HD
-http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+http://45.120.188.76:8080/0.ts
 #EXTINF:-1 tvg-logo="https://tvtbr.s3.amazonaws.com/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png",Sony Max HD
 http://cdn.joovox.xyz/hls293/Sony_Max_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Zee_Cinema_New_Logo.png/120px-Zee_Cinema_New_Logo.png",ZeeCinema HD
@@ -94,7 +94,7 @@ https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887607804.jpg",Nazrana Ghazal HQ
 https://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/5a/06/a3/5a06a36e086ec7d84b0677cf4c9b928c.jpg",Sony MIX
-http://cdn.joovox.xyz/hls293/Sony_Mix.m3u8
+https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV
 http://cdn.joovox.xyz/hls293/MTV.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/m/925871636s.png",MTV Beats
