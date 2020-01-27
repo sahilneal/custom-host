@@ -33,6 +33,8 @@ http://cdn.joovox.xyz/hls293/Sony_Max_HD.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg",&Pictures HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
+#EXTINF:-1 tvg-logo="http://mhdtvworld.live/wp-content/uploads/2019/11/and-xplor-in.png",&XploreHD
+http://173.212.237.70/zee5.php?url=https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.rmnstars.com/wp-content/uploads/2017/03/starind-300x300.jpg",Star Gold Select HD
 http://red.aslivetv.club/StarGoldSelectHD.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP0iCMMzJW4e4CnN9KgeSMd6-9GMLraozRRXQUow7TBHwQgt5W&s",Jio Bollywood HD Premium
