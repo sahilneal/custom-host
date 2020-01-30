@@ -20,7 +20,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.whatsonindia.com/whatsontv/images/applicationchannellogo/nuHCtJ12.png",Starplus HD
 http://jiocdn.fun/mymhdtv/hs.php?c=starplushd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/83px-SET_India_logo.svg.png",SonyTV HD
-https://sony247channels.akamaized.net/hls/live/2009800/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
+http://sony247channels.akamaized.net/hls/live/2009800/SETHD/hdntl=exp=1580505918~acl=%2f*~data=hdntl~hmac=09c95f44a4979ccd10ca776490c3e3dc8aacd28cb1df02113278cc84a6f163e6/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony Sab HD
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/star-bharat-hd-logo-150x150.jpg",Star Bharat HD VPN India
@@ -28,7 +28,7 @@ http://jiocdn.fun/mymhdtv/hs.php?c=starbharat&e=.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/170x170/tvhd_386x386_634196922.png",&TV HD
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1 tvg-logo="https://tvtbr.s3.amazonaws.com/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png",Sony Max HD
-https://sony247channels.akamaized.net/hls/live/2009802/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+http://sony247channels.akamaized.net/hls/live/2009802/SonyMaxhd/hdntl=exp=1580506128~acl=%2f*~data=hdntl~hmac=62903ee57d45999ec5e0d06acf8ecb29bfb6ade42fc017767aa4d8e05c380ad1/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Zee_Cinema_New_Logo.png/120px-Zee_Cinema_New_Logo.png",ZeeCinema HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg",&Pictures HD
@@ -98,7 +98,7 @@ https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887607804.jpg",Nazrana Ghazal HQ
 https://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/5a/06/a3/5a06a36e086ec7d84b0677cf4c9b928c.jpg",Sony MIX
-http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
+https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/hdntl=exp=1580504853~acl=%2f*~data=hdntl~hmac=e3ca7a08c2bb1998a8b1d789d6557e4684f4c559ed8f9f75dab8f12f3291063d/master_3500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV
 http://cdn.joovox.xyz/hls293/MTV.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/m/925871636s.png",MTV Beats
