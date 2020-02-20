@@ -22,7 +22,7 @@ http://jiocdn.fun/mymhdtvworld/hxstvv1.php?c=starplushd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/83px-SET_India_logo.svg.png",SonyTV HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHDTEST/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1582192800_0105b505c5a04b8e73591483d3a31af7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony Sab HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1582189200~exp=1582192800~acl=/hls/live/2011749/SABHD/*~hmac=53ebd54a3dce8e18a8511ccec09855cae47675f96a542433c421ef3bf4284d16
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1582192800~exp=1582196400~acl=/hls/live/2011749/SABHD/*~hmac=ae6918f3706be1b92c7cbaa43f589813b97e33ca27be93d573d9d2bfb3f7d9db
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/star-bharat-hd-logo-150x150.jpg",Star Bharat HD VPN India
 http://jiocdn.fun/mymhdtvworld/hxstvv1.php?c=starbharat&e=.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/170x170/tvhd_386x386_634196922.png",&TV HD
