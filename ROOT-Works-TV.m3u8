@@ -9,7 +9,7 @@ http://tiny.cc/humtvutube
 http://158.69.229.29:8081/newslive/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ac/5f/a7/ac5fa7237dfa4f8c443949102754f90e.jpg",Geo NEWS
 https://streamer64.ebound.tv/geo/geonews_abr/geo/geonews_master/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgd.apk.tools/150/d/9/2/com.wlivealharamayn_4833964.png",Makkah Live
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL.png",Makkah Live
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/nuL-UZIZBhS71RtKaBPia52u7OvFsQtV58OSUlGsUV1BdXZTUGOGUTRkPf2Q9yfbqc8=w150",Madina Live
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
@@ -84,19 +84,19 @@ https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.inextlive.com/bikeathon/images/sponcers/jamshedpur/2018/8.jpg",News18 Bihar
 http://tiny.cc/news18bih
 #EXTINF:-1 tvg-logo="http://static.filmon.com/assets/channels/4/big_logo.png",ALJAZEERA INTERNATIONAL
-http://tiny.cc/aljazeerautube
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/100px-BBC_World_News_2019.svg.png",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://television-planet.tv/uploads/posts/25252123143fplanet-television.png",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8?sd=10&dw=30&rebase=on
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887112381.jpg",Dil Se HQ
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8?sd=10&dw=30&rebase=on
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887607779.jpg",Kadak Hits HQ
-https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
+https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&dw=30&rebase=on
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887607802.jpg",POP Pataka HQ
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?sd=10&dw=30&rebase=on
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887607804.jpg",Nazrana Ghazal HQ
-https://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8
+https://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&dw=30&rebase=on
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/5a/06/a3/5a06a36e086ec7d84b0677cf4c9b928c.jpg",Sony MIX
 https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV
