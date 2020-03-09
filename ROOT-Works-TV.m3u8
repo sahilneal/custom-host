@@ -20,15 +20,15 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.whatsonindia.com/whatsontv/images/applicationchannellogo/nuHCtJ12.png",Starplus HD
 http://jiocdn.fun/mymhdtvworld/hxstvv1.php?c=starplushd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/83px-SET_India_logo.svg.png",SonyTV HD
-https://sony247channels.akamaized.net/hls/live/2011671/SETHDTEST/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1582192800_0105b505c5a04b8e73591483d3a31af7
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony Sab HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1582192800~exp=1582196400~acl=/hls/live/2011749/SABHD/*~hmac=ae6918f3706be1b92c7cbaa43f589813b97e33ca27be93d573d9d2bfb3f7d9db
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/star-bharat-hd-logo-150x150.jpg",Star Bharat HD VPN India
 http://jiocdn.fun/mymhdtvworld/hxstvv1.php?c=starbharat&e=.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/170x170/tvhd_386x386_634196922.png",&TV HD
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_298/PORTRAIT/Lad3I4Yq.png",Sony Max HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?&__nn__=5606168722001&hdnea=st=1582187400~exp=1582191000~acl=/hls/live/2011670/SonyMaxhd/*~hmac=29fe10b6e7beeb79d514fd74242293e4de41e88b1a13f262d88c5c762d3cec54
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Zee_Cinema_New_Logo.png/120px-Zee_Cinema_New_Logo.png",ZeeCinema HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg",&Pictures HD
@@ -54,7 +54,7 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront.timesnownews.com/site/tnad/timesnetwork/mnx_hd.png",MNX HD
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://d3ge7iqw03kmcr.cloudfront.net/logo/34_0.png",SonyPIX HD
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1582187400~exp=1582191000~acl=/hls/live/2011748/PIXHD/*~hmac=59b3bb50fba5dbf3f75a99f4072326e99ba4a18ba525a2cbd011d2c7a7ad7c4a
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold HD VPN India
 http://jiocdn.fun/mymhdtvworld/hxstvv1.php?c=stargold&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/logo/tv/ss/star_movies_in_select_hd.png",Star Movies Select HD
@@ -66,11 +66,11 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafehd/index.m3
 #EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/themes/zeetelevision/assets/images/media/english-pack-logo/&-flix-b-hd.jpg",&flix HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/AXN_HD_2015.png/revision/latest/scale-to-width-down/250?cb=20151003112849",AXN HD
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHDTEST/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1582192800_3181c4f5ce85450259f76c04a82e57e3
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/ndtvlogo.png",NDTV India
 http://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 #EXTINF:-1 tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_300/ndtv_24x7.png",NDTV 24/7
-http://tiny.cc/ndtv247utube
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/TV9_Bharatvarsh_Aao_Desh_Badlein.jpg/revision/latest/scale-to-width-down/280?cb=20190401051748",TV9 Bharatvarsh
 http://tiny.cc/tv9hi
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/jd_social_backend/logo/895623415263/8d0571855fb06e66dcf1000009bcf9ab.jpg",ABP News
