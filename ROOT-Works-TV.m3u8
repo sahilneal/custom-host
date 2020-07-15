@@ -74,7 +74,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/TV9_Bharatvarsh_Aao_Desh_Badlein.jpg/revision/latest/scale-to-width-down/280?cb=20190401051748",TV9 Bharatvarsh
 http://tiny.cc/tv9hi
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/jd_social_backend/logo/895623415263/8d0571855fb06e66dcf1000009bcf9ab.jpg",ABP News
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/200px-Aaj_tak_logo.png",AajTak LQ
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/200px-Aaj_tak_logo.png",AajTak
