@@ -16,9 +16,9 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/240px-Colors_tv2017.png",Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-tv-hd-logo.jpg",ZeeTV HD
-http://185.8.176.227:25461/strtester/ap8s9ndf709a8/29
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/StarPlus_HD.png/revision/latest/scale-to-width-down/250?cb=20181211060159",Starplus HD
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/23
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/StarPlus_HD.png/revision/latest/scale-to-width-down/250?cb=20181211060159",Starplus HD
+http://185.8.176.227:25461/strtester/ap8s9ndf709a8/29
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/83px-SET_India_logo.svg.png",SonyTV HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony Sab HD
@@ -60,7 +60,7 @@ http://jiocdn.fun/mymhdtvworld/hxstvv1.php?c=stargold&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/logo/tv/ss/star_movies_in_select_hd.png",Star Movies Select HD
 http://red.aslivetv.club/StarMoviesSelectHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-hd-logo-300x300.jpg",Star Movies HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+https://ritesh.ch/miniproxy/miniproxy.php/http://163.172.223.102:8081/1212@!liveInx1/starmovies/chunks.m3u8?nimblesessionid=10051617&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIwIDEyOjQyOjIyIEFNJmhhc2hfdmFsdWU9MHZMT3pzUjZvRmFTWi92eEhkWUF1dz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/170x170/zeecafehd_1363288667.png",ZeeCafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/themes/zeetelevision/assets/images/media/english-pack-logo/&-flix-b-hd.jpg",&flix HD
