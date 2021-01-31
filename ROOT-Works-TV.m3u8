@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/ARY_Digital_Logo_2.png/150px-ARY_Digital_Logo_2.png",ARY Digital
-http://185.8.176.227:25461/strtester/ap8s9ndf709a8/14
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple117/v4/f6/28/09/f6280981-de11-5b66-c72a-79a1bc8c95de/source/112x112bb.jpg",Geo TV
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/25
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",HUM TV
@@ -90,13 +90,13 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://television-planet.tv/uploads/posts/25252123143fplanet-television.png",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=false
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887112381.jpg",Dil Se HQ
-https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8?sd=10&dw=30&rebase=on
+https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887607779.jpg",Kadak Hits HQ
-https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&dw=30&rebase=on
+https://live.hungama.com/linear/kadak-hits/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887607802.jpg",POP Pataka HQ
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?sd=10&dw=30&rebase=on
+https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://content.hungama.com/linear%20tv%20channel/display%20image/800x800%20jpeg/5887607804.jpg",Nazrana Ghazal HQ
-https://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&dw=30&rebase=on
+https://live.hungama.com/linear/nazrana/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/5a/06/a3/5a06a36e086ec7d84b0677cf4c9b928c.jpg",Sony MIX
 https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV
