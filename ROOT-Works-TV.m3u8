@@ -71,10 +71,10 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 http://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 #EXTINF:-1 tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_300/ndtv_24x7.png",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/TV9_Bharatvarsh_Aao_Desh_Badlein.jpg/revision/latest/scale-to-width-down/280?cb=20190401051748",TV9 Bharatvarsh
-http://tiny.cc/tv9hi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/408px-News24_Logo.jpg",News24
+https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/jd_social_backend/logo/895623415263/8d0571855fb06e66dcf1000009bcf9ab.jpg",ABP News
-https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master_720.m3u8
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/200px-Aaj_tak_logo.png",AajTak LQ
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/aajtak_4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/200px-Aaj_tak_logo.png",AajTak
@@ -102,7 +102,7 @@ https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV
 http://cdn.joovox.xyz/hls293/MTV.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/m/925871636s.png",MTV Beats
-http://cdn.joovox.xyz/hls293/MTV_Beats_HD.m3u8
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MTV.png/180px-MTV.png",MTV HD Plus
 http://cdn.joovox.xyz/hls293/MTV_HD_Plus.m3u8
 #EXTINF:-1 tvg-logo="http://deshent.com/Uploads/Master/270520160625429Xm.png",9XM
@@ -114,7 +114,7 @@ https://y5w8j4a9.ssl.hwcdn.net/etc/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.kcvnet.in/images/chanellogo/9x_o_in.png",9XO
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/9xo/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.whatsonindia.com/WhatsOnTV/images/applicationchannellogo/10000000000690000.png",ZoomTV HQ
-https://zoomtgbcllive-i.akamaihd.net/hls/live/681901/zoomhlsingest/chunklist_3.m3u8
+https://zoomtgbcllive-i.akamaihd.net/hls/live/681901-b/zoomindpmsl/chunklist_0.m3u8
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/618036953/music_india_200x200.png",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/846236399359709184/XQdia8As_200x200.jpg",Mastii HQ
@@ -126,10 +126,10 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1108972233685237760/dz2OCQeq_200x200.png",Sony BBC Earth HD
 http://cdn.joovox.xyz/hls293/Sony_BBC_Earth_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dc/47/f9/dc47f97388f9d53558c127321a6caf3a--discovery-channel-logo-s.jpg",Discovery Hindi
-https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.spasibovsem.ru/catalog/100/telekanal-discovery-science-otzyvy-1372367696.jpg",Discover Science Hindi
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6a/75/f1/6a75f1c8c57710c24cd88f621695057f.jpg",Animal Planet Hindi
-https://streamitv.multitvsolution.in/idvo/animalplanethindi_540p/index.m3u8
+https://itvorigin.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="http://upload.turkcewiki.org/wikipedia/en/thumb/2/20/Sony_SIX_logo.png/160px-Sony_SIX_logo.png", SonySIX HD
 http://playing-jootv.somee.com/iptv/play-2.php?c=sonysixhd&tv.m3u8
