@@ -18,17 +18,17 @@ https://feed.play.mv/live/10005200/6G8zJ9XsyB/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-tv-hd-logo.jpg",ZeeTV HD
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/23
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/StarPlus_HD.png/revision/latest/scale-to-width-down/250?cb=20181211060159",Starplus HD
-http://185.8.176.227:25461/strtester/ap8s9ndf709a8/29
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/83px-SET_India_logo.svg.png",SonyTV HD
-https://feed.play.mv/live/10005200/7Lc21Ikj4q/1.m3u8
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony Sab HD
-https://tvstream.space/jtv/jeox.php?c=Sony_SAB_HD&=800&e=.m3u8
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/star-bharat-hd-logo-150x150.jpg",Star Bharat HD VPN India
 http://jupiter.bdcabletv.com/StarBharatHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/170x170/tvhd_386x386_634196922.png",&TV HD
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_298/PORTRAIT/Lad3I4Yq.png",Sony Max HD
-http://jupiter.bdcabletv.com/SonyMaxHD/video.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Zee_Cinema_New_Logo.png/120px-Zee_Cinema_New_Logo.png",ZeeCinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg",&Pictures HD
@@ -56,7 +56,7 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://d3ge7iqw03kmcr.cloudfront.net/logo/34_0.png",SonyPIX HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold HD VPN India
-http://jiocdn.fun/mymhdtvworld/hxstvv1.php?c=stargold&e=.m3u8
+http://93.152.174.144:4000/play/stargold/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/logo/tv/ss/star_movies_in_select_hd.png",Star Movies Select HD
 http://red.aslivetv.club/StarMoviesSelectHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-hd-logo-300x300.jpg",Star Movies HD
@@ -72,7 +72,7 @@ http://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480
 #EXTINF:-1 tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_300/ndtv_24x7.png",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/408px-News24_Logo.jpg",News24
-https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/jd_social_backend/logo/895623415263/8d0571855fb06e66dcf1000009bcf9ab.jpg",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/229px-CNBC_Awaaz_logo.png",CNBC Awaaz
